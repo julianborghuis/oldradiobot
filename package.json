@@ -1,0 +1,16 @@
+{
+    "name": "CMFM! Radio",
+    "version": "1.0.0",
+    "description": "Ik ben de officiële Discord Radio bot van CMFM!",
+    "dependencies": {
+        "chalk": "^2.4.1",
+        "discord.js": "^11.4.2",
+        "ffmpeg": "0.0.4",
+        "forever": "^0.15.3",
+        "node-opus": "^0.2.7",
+        "npm": "^6.4.1",
+        "opusscript": "0.0.6",
+        "sqlite": "^3.0.0"
+    },
+    "author": "DevCerberus#3173"
+}
